@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<x:xmpmeta xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:x="adobe:ns:meta/">
+  <rdf:RDF>
+    <rdf:Description rdf:about="" crs:PresetType="Normal" crs:UUID="1184750BB3294A2D8DAF5E33E17445D9" crs:ProcessVersion="11.0" crs:HasSettings="True" crs:SupportsAmount="False" crs:CameraModelRestriction="" crs:SupportsColor="True" crs:SupportsMonochrome="True" crs:SupportsHighDynamicRange="True" crs:SupportsNormalDynamicRange="True" crs:SupportsSceneReferred="True" crs:SupportsOutputReferred="True" crs:Contrast2012="-10" crs:Highlights2012="-25" crs:Shadows2012="22" crs:Whites2012="12" crs:Blacks2012="-6" crs:Texture="-4" crs:Clarity2012="-6" crs:Dehaze="-4" crs:Vibrance="6" crs:Saturation="-8" crs:HueAdjustmentRed="0" crs:SaturationAdjustmentRed="6" crs:LuminanceAdjustmentRed="-4" crs:HueAdjustmentOrange="2" crs:SaturationAdjustmentOrange="-6" crs:LuminanceAdjustmentOrange="6" crs:HueAdjustmentYellow="-10" crs:SaturationAdjustmentYellow="-22" crs:LuminanceAdjustmentYellow="10" crs:HueAdjustmentGreen="-22" crs:SaturationAdjustmentGreen="-32" crs:LuminanceAdjustmentGreen="8" crs:HueAdjustmentAqua="-10" crs:SaturationAdjustmentAqua="-30" crs:LuminanceAdjustmentAqua="5" crs:HueAdjustmentBlue="-6" crs:SaturationAdjustmentBlue="-28" crs:LuminanceAdjustmentBlue="10" crs:SaturationAdjustmentPurple="-15" crs:SaturationAdjustmentMagenta="-10" crs:SplitToningShadowHue="40" crs:SplitToningShadowSaturation="12" crs:SplitToningHighlightHue="48" crs:SplitToningHighlightSaturation="6" crs:SplitToningBalance="10" crs:ToneCurveName2012="Custom">
+      <crs:Name>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Ivory Garden</rdf:li>
+        </rdf:Alt>
+      </crs:Name>
+      <crs:Group>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Freddy Universe - Reference Looks</rdf:li>
+        </rdf:Alt>
+      </crs:Group>
+      <crs:Description>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Ivory Garden: bright, airy outdoor wedding look with creamy soft highlights, golden-warm mids and shadows, muted olive greens and clean deep blacks. Exposure, white balance and camera profile preserved. Inferred grade; not rendered or import-tested in Lightroom.</rdf:li>
+        </rdf:Alt>
+      </crs:Description>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 2</rdf:li>
+          <rdf:li>40, 36</rdf:li>
+          <rdf:li>96, 100</rdf:li>
+          <rdf:li>160, 172</rdf:li>
+          <rdf:li>220, 230</rdf:li>
+          <rdf:li>255, 250</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+      <crs:ToneCurvePV2012Blue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>64, 60</rdf:li>
+          <rdf:li>192, 190</rdf:li>
+          <rdf:li>255, 252</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Blue>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
